@@ -5,5 +5,5 @@
 
 | Nombre              | Aportes |
 |---------------------|----------------|
-| Valentina Olivos    |Informe ; Creación del repositorio ; README      |
-| Benjamín Rojas      |Código ; Información ; .gitignore                |
+| Valentina Olivos    |Informe - Creación del repositorio - README      |
+| Benjamín Rojas      |Código - Información - .gitignore                |
